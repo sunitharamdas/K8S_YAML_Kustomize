@@ -1,4 +1,5 @@
 ## Kustomize: Simplified Configuration Management for Kubernetes
+Read the full guide on **Kustomize**: [K8s YAML with Kustomize](https://medium.com/@suni.ramdas/k8s-yaml-with-kustomize-034f8f6574bf)
 
 **Kustomize** is a powerful configuration management tool for Kubernetes. It allows you to customize Kubernetes manifests without altering the original YAML files. With Kustomize, you can manage Kubernetes deployments across multiple environments (e.g., dev, staging, and prod) using reusable and maintainable base configurations and overlays.
 
